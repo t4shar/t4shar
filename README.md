@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">I am in last year of my CS undergrad , passionate problem solver and looking for future opertunities</h3>
+<h3 align="center">I am in Final year of my CS undergrad , passionate problem solver and looking for future opertunities</h3>
 
 <img allign="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
